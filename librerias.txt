@@ -1,0 +1,17 @@
+*****************************
+
+// usando npm
+npm install @material-ui/core
+
+// usando yarn
+yarn add @material-ui/core
+
+*******************************
+
+// usando npm
+npm install @material-ui/icons
+
+// usando yarn
+yarn add @material-ui/icons
+
+******************************
